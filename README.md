@@ -19,6 +19,7 @@ make
 
 然后在data目录下生成文件output.csv,这是一个回归函数$f(x)=x^2-x+3.5$的拟合。
 拟合情况如下：
+![image](https://user-images.githubusercontent.com/44296812/188828162-34bd447c-5e03-4d0e-9afe-d1827faf0a37.png)
 
 ## 二、用起来
 1、使用十分简便，首先新建ANN模型，设置误差函数cost及其对于输出层每一项的偏导，这里使用默认的平方差函数
