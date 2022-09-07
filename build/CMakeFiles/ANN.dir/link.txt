@@ -1,0 +1,3 @@
+D:\win\privateProgram\vs\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe -E rm -f CMakeFiles\ANN.dir/objects.a
+C:\MinGW\bin\ar.exe qc CMakeFiles\ANN.dir/objects.a @CMakeFiles\ANN.dir\objects1.rsp
+C:\MinGW\bin\x86_64-w64-mingw32-g++.exe -g -Wl,--whole-archive CMakeFiles\ANN.dir/objects.a -Wl,--no-whole-archive -o ANN.exe -Wl,--out-implib,libANN.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ANN.dir\linklibs.rsp

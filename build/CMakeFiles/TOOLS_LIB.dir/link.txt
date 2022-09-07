@@ -1,0 +1,2 @@
+C:\MinGW\bin\ar.exe qc libTOOLS_LIB.a CMakeFiles/TOOLS_LIB.dir/src/tools/Matrix.cpp.obj
+C:\MinGW\bin\ranlib.exe libTOOLS_LIB.a
