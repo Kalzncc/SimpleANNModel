@@ -1,3 +1,0 @@
-file(REMOVE_RECURSE
-  "libDEBUG_LIB.a"
-)

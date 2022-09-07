@@ -1,2 +1,0 @@
-C:\MinGW\bin\ar.exe qc libFUNC_LIB.a CMakeFiles/FUNC_LIB.dir/src/func_lib/linear.cpp.obj CMakeFiles/FUNC_LIB.dir/src/func_lib/relu.cpp.obj CMakeFiles/FUNC_LIB.dir/src/func_lib/signmod.cpp.obj CMakeFiles/FUNC_LIB.dir/src/func_lib/sqrt_cost.cpp.obj
-C:\MinGW\bin\ranlib.exe libFUNC_LIB.a
