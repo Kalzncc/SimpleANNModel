@@ -68,7 +68,7 @@ Vector output = compiled_model.feed(data, expectation);
 
 5、只输出，不训练
 ```cpp
-Vector output = compiled_model.get_output(data, expectation);
+Vector output = compiled_model.get_output(data);
 ```
 
 ## 三、学起来
